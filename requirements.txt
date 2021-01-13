@@ -1,0 +1,7 @@
+statsmodels==0.11.1
+numpy==1.18.5
+pandas==1.0.5
+matplotlib==3.2.2
+plotly==4.12.0
+ipywidgets==7.5.1
+watermark==2.1.0
